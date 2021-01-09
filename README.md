@@ -1,13 +1,13 @@
 # CSE-110-Lab1
-## Practice markdown
+## Markdown Practice
 **This is bold text**
 *This text is italicized*
 ~~This was mistaken text~~
 **This text is _extremely_ important**
 ***All this text is important***
-In the words of Abraham Lincoln:
+In the words of Bill Gates:
 
-> Pardon my French
+> The computer was born to solve problems that did not exist before.
 
 Some basic Git commands are:
 ```
