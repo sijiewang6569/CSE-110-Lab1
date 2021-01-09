@@ -1,3 +1,18 @@
 # CSE-110-Lab1
-Sijie Wang's User Page
-My favorite progamming language is Java
+## Practice markdown
+**This is bold text**
+*This text is italicized*
+~~This was mistaken text~~
+**This text is _extremely_ important**
+***All this text is important***
+In the words of Abraham Lincoln:
+
+> Pardon my French
+
+Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
+Many useful tips in [GitHub Flavored Markdown](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax).
