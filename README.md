@@ -16,3 +16,4 @@ git add
 git commit
 ```
 Many useful tips in [GitHub Flavored Markdown](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax).
+require "Markdown"
